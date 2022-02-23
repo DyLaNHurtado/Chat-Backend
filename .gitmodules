@@ -1,0 +1,15 @@
+[submodule "cloud-conf"]
+	path = cloud-conf
+	url = https://github.com/DyLaNHurtado/cloud-conf.git
+[submodule "ms-proxy"]
+	path = ms-proxy
+	url = https://github.com/DyLaNHurtado/ms-proxy.git
+[submodule "ms-config"]
+	path = ms-config
+	url = https://github.com/DyLaNHurtado/ms-config.git
+[submodule "ms-login"]
+	path = ms-login
+	url = https://github.com/DyLaNHurtado/ms-login.git
+[submodule "ms-register"]
+	path = ms-register
+	url = https://github.com/DyLaNHurtado/ms-login.git
