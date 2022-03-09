@@ -12,4 +12,4 @@
 	url = https://github.com/DyLaNHurtado/ms-login.git
 [submodule "ms-register"]
 	path = ms-register
-	url = https://github.com/DyLaNHurtado/ms-login.git
+	url = https://github.com/DyLaNHurtado/ms-register.git
